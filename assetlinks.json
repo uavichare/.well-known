@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.verifysmsdemo",
-    "sha256_cert_fingerprints":
-    ["9B:8D:0B:E4:22:DA:56:2B:3D:09:E4:BC:59:09:CD:4C:D6:C2:97:9C:83:E4:7F:1D:4F:0E:AE:4F:E7:B5:EC:37"]
-  }
-}]
